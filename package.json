@@ -1,5 +1,5 @@
 {
-  "name": "Alpin-Dev/Baileys",
+  "name": "@whiskeysockets/baileys",
   "version": "0.5.1",
   "description": "WhatsApp Web API Library",
   "keywords": [
